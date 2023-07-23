@@ -9,12 +9,9 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙹𝚊𝚐𝚐𝚒𝙴𝚍𝚒𝚝𝚜 𝚟3.0.0"""
 
-    SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/JaggiEdits</a>
+    SOURCE_TXT = """<b>@BackupByJaggi</b>
 
-<b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a https://t.me/𝙹𝚊𝚐𝚐𝚒𝙴𝚍𝚒𝚝𝚜 </a>
-- 𝙳𝚎𝚟 2<a https://t.me/BackupByJaggi</a>"""
+<b>@JaggiEdits</b>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
